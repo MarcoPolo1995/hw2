@@ -1,8 +1,7 @@
 
-public class hw2 {
-    public static void main(String[] args) {
+public class hw2 {  public static void main(String[] args) {
 
-    }
+}
 
     public static boolean number(int a, int b) {
         int sum = a + b;
